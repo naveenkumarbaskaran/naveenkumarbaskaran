@@ -1,6 +1,6 @@
 ### Creative Software Developer || Technology Enthusiast
 
-- 👋 Hi, I’m @naveenkumarbaskaran
+- 👋 Hi, I’m @[naveenkumarbaskaran](https://www.linkedin.com/in/iamnaveenkumarb/)
 - 👀 I’m interested in AWS / ML / AI / NLP
 - 🌱 I’m currently learning SAP UI5 / Fiori
 - ⚡ My Core Skills - ABAP on HANA
