@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @[naveenkumarbaskaran](https://www.linkedin.com/in/iamnaveenkumarb/)
 - 👀 I’m interested in AWS / ML / AI / NLP
-- 🌱 I’m currently learning SAP UI5 / Fiori
-- ⚡ My Core Skills - ABAP on HANA
+- 🌱 I’m currently learning ML / DL
+- ⚡ My Core Skills - ABAP on HANA, SAP UI5 / Fiori 
 - 💞️ I’m looking to collaborate on SAP Cloud / AWS Cloud
 - 📫 How to reach me email @naveenkb142@gmail.com 
 
