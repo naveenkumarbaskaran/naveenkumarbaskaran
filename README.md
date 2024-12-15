@@ -4,7 +4,8 @@
 - 👀 I’m interested in AWS / ML / AI / NLP
 - 🌱 I’m currently learning ML / DL
 - ⚡ My Core Skills - ABAP on HANA, SAP UI5 / Fiori 
-- 💞️ I’m looking to collaborate on SAP Cloud / AWS Cloud
+- 💞️ I’m looking to collaborate on Gen AI / ML / LLMs
+- 🧐 Interests: GANs, Deep RL, Quantum Computing, PC Builds.
 - 📫 How to reach me email @naveenkb142@gmail.com 
 
  ### Tools & Frameworks Used
