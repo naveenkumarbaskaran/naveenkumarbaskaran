@@ -1,11 +1,12 @@
 ### Creative Software Developer || Technology Enthusiast
 
 - 👋 Hi, I’m @[naveenkumarbaskaran](https://www.linkedin.com/in/iamnaveenkumarb/)
+- 🎓 Researcher - [My Works](https://scholar.google.com/citations?user=40aaON4AAAAJ&hl=en)
 - 👀 I’m interested in AWS / ML / AI / NLP
 - 🌱 I’m currently learning ML / DL
 - ⚡ My Core Skills - ABAP on HANA, SAP UI5 / Fiori 
 - 💞️ I’m looking to collaborate on Gen AI / ML / LLMs
-- 🧐 Interests: GANs, Deep RL, Quantum Computing, PC Builds.
+- 🧐 Interests: GANs, Deep RL, Quantum Computing, Photonics, BioMedical Application
 - 📫 How to reach me email @naveenkb142@gmail.com 
 
  ### Tools & Frameworks Used
