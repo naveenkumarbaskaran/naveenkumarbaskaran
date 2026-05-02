@@ -1,29 +1,29 @@
-### Creative Software Developer || Technology Enthusiast
+# Naveen Kumar Baskaran
 
-- 👋 Hi, I’m @[naveenkumarbaskaran](https://www.linkedin.com/in/iamnaveenkumarb/)
-- 🎓 Researcher - [My Works](https://scholar.google.com/citations?user=40aaON4AAAAJ&hl=en)
-- 👀 I’m interested in AWS / ML / AI / NLP
-- 🌱 I’m currently learning ML / DL
-- ⚡ My Core Skills - ABAP on HANA, SAP UI5 / Fiori 
-- 💞️ I’m looking to collaborate on Gen AI / ML / LLMs
-- 🧐 Interests: GANs, Deep RL, Quantum Computing, Photonics, BioMedical Application
-- 📫 How to reach me email @naveenkb142@gmail.com 
+**Senior SAP Developer & AI/ML Engineer** at SAP Labs India | PhD Candidate (ML & Photonics)
 
- ### Tools & Frameworks Used
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/naveenkumarbaskaran/Images/blob/main/sap.png"><img align="left" alt="SAP" width="26px" src="https://github.com/naveenkumarbaskaran/Images/blob/main/sap.png" style="max-width: 100%;"></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/naveenkumarbaskaran/Images/blob/main/ui5.png"><img align="left" alt="UI5" width="26px" src="https://github.com/naveenkumarbaskaran/Images/blob/main/ui5.png" style="max-width: 100%;"></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;"></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/naveenkumarbaskaran/Images/blob/main/eclipse.png"><img align="left" alt="Eclipse" width="26px" src="https://github.com/naveenkumarbaskaran/Images/blob/main/eclipse.png" style="max-width: 100%;"></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;"></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width: 100%;"></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;"></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width: 100%;"></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/naveenkumarbaskaran/Images/blob/main/aws.png"><img align="left" alt="AWS" width="56px" src="https://github.com/naveenkumarbaskaran/Images/blob/main/aws.png" style="max-width: 100%;"></a></p>
+Building production-grade Agentic AI solutions for enterprise SAP workflows — 
+LLM-powered agents integrated with SAP Joule, deployed on Kubernetes (Kyma).
 
-<!---
-naveenkumarbaskaran/naveenkumarbaskaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I Work On
+- 🏗️ **Agent Architecture** — PEOS (Planner-Executor-Observer-Synthesiser) patterns
+  for multi-step enterprise automation
+- ⚡ **Token Optimization** — Dynamic tool binding, history windowing, result truncation
+  (60-80% cost reduction)  
+- 🔌 **SAP + AI Integration** — 20+ OData API integrations with error sanitization
+  and scorecard compliance
+- 🔬 **Research** — Swarm intelligence, CNN hyperparameter optimization,
+  optical biosensors in ML
 
+## Tech Stack
+`Python` `LangGraph` `RAG` `SAP BTP` `Kyma` `ABAP on HANA` `UI5/Fiori`
+`CDS/RAP` `OData` `Docker` `Kubernetes`
+
+## Publications & Patents
+- Hyperparameter Tuning of CNNs using Nature-Inspired Metaheuristic Algorithms (IEEE)
+- Optical Biosensors in ML Applications
+- Patent: Implicitly Presenting Information of User's Point of Interest
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamnaveenkumarb)
+[![IEEE](https://img.shields.io/badge/IEEE-Member-00629B)](https://ieee.org)
