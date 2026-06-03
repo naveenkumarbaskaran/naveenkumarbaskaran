@@ -21,7 +21,7 @@ LLM-powered agents integrated with SAP Joule, deployed on Kubernetes (Kyma).
 <td align="center"><img src="https://img.shields.io/badge/NuGet-2_packages-004880?logo=nuget&logoColor=white&style=for-the-badge" /></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/Open_Source_Repos-63+-181717?logo=github&logoColor=white&style=for-the-badge" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Open_Source_Repos-68+-181717?logo=github&logoColor=white&style=for-the-badge" /></td>
 <td align="center"><img src="https://img.shields.io/badge/Research_Papers-5_published-4285F4?logo=googlescholar&logoColor=white&style=for-the-badge" /></td>
 <td align="center"><img src="https://img.shields.io/badge/Patent-1_granted-FF6F00?logo=acclaim&logoColor=white&style=for-the-badge" /></td>
 </tr>
@@ -94,14 +94,20 @@ brew install naveenkumarbaskaran/tap/promptlab
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=naveenkumarbaskaran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumarbaskaran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenkumarbaskaran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumarbaskaran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumarbaskaran&theme=tokyonight&hide_border=true" width="100%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumarbaskaran&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenkumarbaskaran&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
 
 ---
 
@@ -121,3 +127,4 @@ brew install naveenkumarbaskaran/tap/promptlab
 [![IEEE](https://img.shields.io/badge/IEEE-Member-00629B?logo=ieee&logoColor=white&style=for-the-badge)](https://ieee.org)
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=white&style=for-the-badge)](https://pypi.org/user/naveenkumarbaskaran/)
 [![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://hub.docker.com/u/naveenkumarbaskaran)
+
